@@ -1,2 +1,1 @@
-# final2
-Fast Food Final Python Project
+#Fast Food Final Python Project
